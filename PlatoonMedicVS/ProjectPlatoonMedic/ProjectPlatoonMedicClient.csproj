@@ -9,4 +9,12 @@
 		<PackageReference Include="RestSharp" Version="106.11.7" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <Folder Include="Views\Company\" />
+	  <Folder Include="Views\Home\" />
+	  <Folder Include="Views\MedicalRecord\" />
+	  <Folder Include="Views\Soldier\" />
+	  <Folder Include="Views\Platoon\" />
+	</ItemGroup>
+
 </Project>

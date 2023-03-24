@@ -1,0 +1,16 @@
+C:\Users\Student\workspace\side-projects\PlatoonMedic\ProjectPlatoonMedic\PlatoonMedicVS\ProjectPlatoonMedic\bin\Debug\netcoreapp3.1\ProjectPlatoonMedicClient.exe
+C:\Users\Student\workspace\side-projects\PlatoonMedic\ProjectPlatoonMedic\PlatoonMedicVS\ProjectPlatoonMedic\bin\Debug\netcoreapp3.1\ProjectPlatoonMedicClient.deps.json
+C:\Users\Student\workspace\side-projects\PlatoonMedic\ProjectPlatoonMedic\PlatoonMedicVS\ProjectPlatoonMedic\bin\Debug\netcoreapp3.1\ProjectPlatoonMedicClient.runtimeconfig.json
+C:\Users\Student\workspace\side-projects\PlatoonMedic\ProjectPlatoonMedic\PlatoonMedicVS\ProjectPlatoonMedic\bin\Debug\netcoreapp3.1\ProjectPlatoonMedicClient.runtimeconfig.dev.json
+C:\Users\Student\workspace\side-projects\PlatoonMedic\ProjectPlatoonMedic\PlatoonMedicVS\ProjectPlatoonMedic\bin\Debug\netcoreapp3.1\ProjectPlatoonMedicClient.dll
+C:\Users\Student\workspace\side-projects\PlatoonMedic\ProjectPlatoonMedic\PlatoonMedicVS\ProjectPlatoonMedic\bin\Debug\netcoreapp3.1\ProjectPlatoonMedicClient.pdb
+C:\Users\Student\workspace\side-projects\PlatoonMedic\ProjectPlatoonMedic\PlatoonMedicVS\ProjectPlatoonMedic\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\Student\workspace\side-projects\PlatoonMedic\ProjectPlatoonMedic\PlatoonMedicVS\ProjectPlatoonMedic\obj\Debug\netcoreapp3.1\ProjectPlatoonMedicClient.csproj.AssemblyReference.cache
+C:\Users\Student\workspace\side-projects\PlatoonMedic\ProjectPlatoonMedic\PlatoonMedicVS\ProjectPlatoonMedic\obj\Debug\netcoreapp3.1\ProjectPlatoonMedicClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\workspace\side-projects\PlatoonMedic\ProjectPlatoonMedic\PlatoonMedicVS\ProjectPlatoonMedic\obj\Debug\netcoreapp3.1\ProjectPlatoonMedicClient.AssemblyInfoInputs.cache
+C:\Users\Student\workspace\side-projects\PlatoonMedic\ProjectPlatoonMedic\PlatoonMedicVS\ProjectPlatoonMedic\obj\Debug\netcoreapp3.1\ProjectPlatoonMedicClient.AssemblyInfo.cs
+C:\Users\Student\workspace\side-projects\PlatoonMedic\ProjectPlatoonMedic\PlatoonMedicVS\ProjectPlatoonMedic\obj\Debug\netcoreapp3.1\ProjectPlatoonMedicClient.csproj.CoreCompileInputs.cache
+C:\Users\Student\workspace\side-projects\PlatoonMedic\ProjectPlatoonMedic\PlatoonMedicVS\ProjectPlatoonMedic\obj\Debug\netcoreapp3.1\ProjectPlatoonMedicClient.csproj.CopyComplete
+C:\Users\Student\workspace\side-projects\PlatoonMedic\ProjectPlatoonMedic\PlatoonMedicVS\ProjectPlatoonMedic\obj\Debug\netcoreapp3.1\ProjectPlatoonMedicClient.dll
+C:\Users\Student\workspace\side-projects\PlatoonMedic\ProjectPlatoonMedic\PlatoonMedicVS\ProjectPlatoonMedic\obj\Debug\netcoreapp3.1\ProjectPlatoonMedicClient.pdb
+C:\Users\Student\workspace\side-projects\PlatoonMedic\ProjectPlatoonMedic\PlatoonMedicVS\ProjectPlatoonMedic\obj\Debug\netcoreapp3.1\ProjectPlatoonMedicClient.genruntimeconfig.cache
