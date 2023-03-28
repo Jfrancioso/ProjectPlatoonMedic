@@ -13,9 +13,4 @@
 	</ItemGroup>
 
 
-	<ItemGroup>
-	  <Folder Include="Security\" />
-	</ItemGroup>
-
-
 </Project>

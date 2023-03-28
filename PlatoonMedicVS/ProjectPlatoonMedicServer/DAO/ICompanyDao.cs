@@ -1,6 +1,6 @@
 ﻿namespace ProjectPlatoonMedicServer.DAO
 {
-    public class PlatoonDAO
+    public class ICompanyDao
     {
     }
 }

@@ -1,6 +1,6 @@
 ﻿namespace ProjectPlatoonMedicServer.DAO
 {
-    public class SoldierDAO
+    public class ISoldierDao
     {
     }
 }
